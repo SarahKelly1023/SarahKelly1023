@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SarahKelly1023/SarahKelly1023/master/assets/background.jpg"  height="450px"  width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/SarahKelly1023/SarahKelly1023/master/assets/background.jpg"  height="500px"  width="100%" alt="Banner"/>
 </p>
 
 # 👋 Hi, I'm Sarah!

@@ -32,7 +32,7 @@ I’m a **Senior Web Developer** passionate about building clean, maintainable, 
 
 ## 🌐 Connect with me
 
-- Telegram: [@sarah1023](https://t.me/kelly1023)  
+- Telegram: [@kelly1023](https://t.me/kelly1023)  
 - Portfolio: [portfolio-three-indol-mn2v4zub1x.vercel.app](https://portfolio-three-indol-mn2v4zub1x.vercel.app)  
 - Email: rose20061023@outlook.com
 
